@@ -35,3 +35,8 @@ globalGraph:
 
 paths:
   - /moc: "#4388cc"
+  - /scenarios/concepts: "#D6A2AD" #pink
+  - /scenarios/resourcesChange: "#668F80" #darkergreen
+  - /scenarios/resourcesIn: "#A0AF84" #lightergreen
+  - /scenarios/stakeholders: "#C3B59F" #brown
+
