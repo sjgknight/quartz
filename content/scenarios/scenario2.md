@@ -14,7 +14,7 @@ stakeholders:
 	-
 
 resourcesIn:
-	- [[scenarios/resourcesIn/documents1|document1]]
+	- [[scenarios/resourcesIn/documents2|document2]]
 
 resourcesChange:
 	-
