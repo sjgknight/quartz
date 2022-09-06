@@ -2,19 +2,39 @@
 title: "health decisions"
 ---
 
-Scenario: 
 
-Goal:
+To include concepts, stakeholders, resourcesIn, resourcesChange, and researchers, in the scenario/goal, use this syntax:
+
 
 concepts: 
-	- [[scenarios/stakeholders/staff|staff]]
+	- 
 	-
 
 stakeholders: 
 	-
 
 resourcesIn:
-	- [[scenarios/resourcesIn/documents1|document1]]
+	- [[documents1]]
 
 resourcesChange:
-	-
+	- [[staff]]
+
+[[scenarios/concepts/epistemic cognition|epistemic cognition]] 
+
+
+
+
+
+
+> [!FAQ] Scenario: 
+> Scenario description here
+> 
+
+
+
+
+> [!Success] Goal: 
+> Goal description here
+> 
+
+

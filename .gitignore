@@ -3,6 +3,8 @@ public
 resources
 .idea
 content/.obsidian
+
+#Other things
 assets/indices/linkIndex.json
 assets/indices/contentIndex.json
 linkmap
@@ -64,3 +66,4 @@ rsconnect/
 # End of https://www.toptal.com/developers/gitignore/api/hugo,r
 
 *.ini
+
