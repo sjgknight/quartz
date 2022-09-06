@@ -1,5 +1,12 @@
 # Quartz
 
+This is Simon's play around with the Quartz system, a digital garden brilliantly generated (and shared for free) by @jzhao
+
+I'll try and remember to share updates I make here, and hopefully document them within the site itself.
+
+
+## Information about Quartz
+
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
 1. Extremely fast natural-language search
