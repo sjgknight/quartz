@@ -1,5 +1,6 @@
 ---
 title: SK digital garden
+enableToc: false
 ---
 
 This site is is based on a 'second brain' or [digital garden](https://jzhao.xyz/posts/networked-thought)' using the free tool, Quartz. 
