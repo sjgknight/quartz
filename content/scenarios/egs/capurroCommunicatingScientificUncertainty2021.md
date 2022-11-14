@@ -16,4 +16,3 @@ Conclusions: Managing scientific uncertainty in evolving science-policy situatio
 
 `Capurro, G., Jardine, C. G., Tustin, J., & Driedger, M. (2021). Communicating scientific uncertainty in a rapidly evolving situation: A framing analysis of Canadian coverage in early days of COVID-19. _BMC Public Health_, _21_(1), 2181. [https://doi.org/10.1186/s12889-021-12246-x](https://doi.org/10.1186/s12889-021-12246-x)`
 
-l
