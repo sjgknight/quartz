@@ -1,8 +1,7 @@
 ---
 title: "Communicating scientific uncertainty in a rapidly evolving situation: A framing analysis of Canadian coverage in early days of COVID-19"
 tags:
-	- Example-reading
-
+  - Example-reading
 ---
 
 > [!abstract]
